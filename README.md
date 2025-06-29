@@ -15,9 +15,9 @@ The **Online Course Management System (OCMS)** is a comprehensive desktop applic
 
 The primary goal of OCMS is to simplify the processes of course enrollment, content delivery, and academic management. It empowers:
 
-* **Admins** to efficiently manage users, courses, and enrollments.
-* **Instructors** to easily upload and maintain course materials.
-* **Students** to seamlessly enroll in courses and access learning content.
+**Admins** to efficiently manage users, courses, and enrollments.  
+**Instructors** to easily upload and maintain course materials.  
+**Students** to seamlessly enroll in courses and access learning content.  
 
 By integrating these capabilities, OCMS aims to foster an effective and user-friendly academic management experience.
 
@@ -27,27 +27,36 @@ OCMS supports three main types of users, each with specific roles and functional
 
 1. **Admin**
 
-   * Manages user accounts (students, instructors).
-   * Oversees course creation, modification, and deletion.
-   * Manages student enrollments and system data integrity.
+   Manages user accounts (students, instructors).
+   
+   Oversees course creation, modification, and deletion.
+    
+   Manages student enrollments and system data integrity.  
 
-2. **Instructor**
+3. **Instructor**
 
-   * Uploads and manages course content such as lectures, documents, and resources.
-   * Organizes content per course for easy student access.
+   Uploads and manages course content such as lectures, documents, and resources.
+   
+   Organizes content per course for easy student access.  
 
-3. **Student**
+4. **Student**
 
-   * Enrolls in available courses (up to a maximum of 5).
-   * Views and interacts with course content provided by instructors.
+   Enrolls in available courses (up to a maximum of 5).
+   
+   Views and interacts with course content provided by instructors.  
 
 ## Features
 
-* **User Authentication:** Secure login and signup system with role-based access control.
-* **Course Management:** Full CRUD (Create, Read, Update, Delete) operations for courses, including searching capabilities.
-* **Enrollment Management:** Students can enroll in courses with a limit of 5 courses to ensure balanced learning loads.
-* **Content Upload:** Instructors can upload various types of educational content tied to their courses.
-* **Content Access:** Students can view uploaded materials and open resources directly in their web browsers.
+**User Authentication:** Secure login and signup system with role-based access control.  
+
+**Course Management:** Full CRUD (Create, Read, Update, Delete) operations for courses, including searching capabilities.  
+
+**Enrollment Management:** Students can enroll in courses with a limit of 5 courses to ensure balanced learning loads.  
+
+**Content Upload:** Instructors can upload various types of educational content tied to their courses.  
+
+**Content Access:** Students can view uploaded materials and open resources directly in their web browsers.  
+
 
 ## Tools and Technologies Used
 
