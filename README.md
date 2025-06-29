@@ -1,10 +1,6 @@
 # online-course-management-system
 Role-based online course management system using C# and SQL Server.
 
-Certainly! Here's a polished, detailed description based on your content that you can put into your README file or GitHub project description section:
-
----
-
 # Online Course Management System (OCMS)
 
 ## Introduction
