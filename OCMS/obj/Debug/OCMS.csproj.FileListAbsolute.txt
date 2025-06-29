@@ -1,0 +1,107 @@
+C:\Users\USER\source\repos\OCMS\bin\Debug\OCMS.exe.config
+C:\Users\USER\source\repos\OCMS\bin\Debug\OCMS.exe
+C:\Users\USER\source\repos\OCMS\bin\Debug\OCMS.pdb
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.Properties.Resources.resources
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.exe
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.pdb
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.Login.resources
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.View.SIgnup.resources
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.View.Fpassword.resources
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.View.AdminDashboard.resources
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.View.ManageUsers.resources
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.View.EnrollmentFrame.resources
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.View.StudentDashboard.resources
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.View.InstructorDashboard.resources
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.View.Profile.resources
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.View.EnrolledStudent.resources
+C:\Users\USER\source\repos\OCMS\obj\Debug\OCMS.View.ManageCourses.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.csproj.AssemblyReference.cache
+D:\OCMS\OCMS\obj\Debug\OCMS.exe
+D:\OCMS\OCMS\obj\Debug\OCMS.pdb
+D:\OCMS\OCMS\bin\Debug\OCMS.exe.config
+D:\OCMS\OCMS\bin\Debug\OCMS.exe
+D:\OCMS\OCMS\bin\Debug\OCMS.pdb
+D:\OCMS\OCMS\obj\Debug\OCMS.View.AdminDashboard.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.View.CourseContent.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.View.EnrolledStudent.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.View.EnrollmentFrame.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.View.Fpassword.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.View.InstructorDashboard.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.Login.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.Properties.Resources.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.View.ManageCourses.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.View.ManageUsers.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.View.Profile.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.View.SIgnup.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.View.StudentDashboard.resources
+D:\OCMS\OCMS\obj\Debug\OCMS.csproj.GenerateResource.cache
+D:\OCMS\OCMS\obj\Debug\OCMS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\bin\Debug\OCMS.exe.config
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\bin\Debug\OCMS.exe
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\bin\Debug\OCMS.pdb
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.AdminDashboard.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.CourseContent.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.EnrolledStudent.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.EnrollmentFrame.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.Fpassword.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.InstructorDashboard.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.Login.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.Properties.Resources.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.ManageCourses.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.ManageUsers.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.Profile.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.SIgnup.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.StudentDashboard.resources
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.exe
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.pdb
+C:\Users\USER\Downloads\Telegram Desktop\OCMS\OCMS\obj\Debug\OCMS.View.ManageContent.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.csproj.AssemblyReference.cache
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.exe
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.pdb
+D:\7th Sem\OCMS\OCMS\OCMS\bin\Debug\OCMS.exe.config
+D:\7th Sem\OCMS\OCMS\OCMS\bin\Debug\OCMS.exe
+D:\7th Sem\OCMS\OCMS\OCMS\bin\Debug\OCMS.pdb
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.AdminDashboard.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.CourseContent.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.EnrolledStudent.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.EnrollmentFrame.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.Fpassword.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.InstructorDashboard.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.Login.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.Properties.Resources.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.ManageContent.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.ManageCourses.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.ManageUsers.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.Profile.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.SIgnup.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.StudentDashboard.resources
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.csproj.GenerateResource.cache
+D:\7th Sem\OCMS\OCMS\OCMS\obj\Debug\OCMS.csproj.CoreCompileInputs.cache
+F:\Github\OCMS1\OCMS\OCMS\OCMS\bin\Debug\OCMS.exe.config
+F:\Github\OCMS1\OCMS\OCMS\OCMS\bin\Debug\OCMS.exe
+F:\Github\OCMS1\OCMS\OCMS\OCMS\bin\Debug\OCMS.pdb
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.csproj.AssemblyReference.cache
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.AdminDashboard.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.CourseContent.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.EnrolledStudent.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.EnrollmentFrame.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.Fpassword.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.InstructorDashboard.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.Login.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.Properties.Resources.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.ManageContent.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.ManageCourses.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.ManageUsers.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.Profile.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.SIgnup.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.View.StudentDashboard.resources
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.csproj.GenerateResource.cache
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.csproj.CoreCompileInputs.cache
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.exe
+F:\Github\OCMS1\OCMS\OCMS\OCMS\obj\Debug\OCMS.pdb
